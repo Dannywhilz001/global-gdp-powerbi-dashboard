@@ -21,7 +21,7 @@ https://ibb.co/k2hY5ssx)
 Coming soon - DM me on LinkedIn for early access
 
 ## Download the PBIX File
-[Download Global-GDP-Dashboard-2023.pbix](https://github.com/Dannywhilz001/global-gdp-powerbi-dashboard/releases/latest/download/Global-GDP-Dashboard-2023.pbix)
+[Download Global-GDP-Dashboard-2023.pbix](https://github.com/Dannywhilz001/global-gdp-powerbi-dashboard)
 
 ## Features
 - 12 custom DAX measures
