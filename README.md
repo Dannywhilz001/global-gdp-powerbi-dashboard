@@ -34,5 +34,9 @@ Coming soon - DM me on LinkedIn for early access
 
 ## Author
 Oladotun Olawale - Data Analyst | Power BI Developer  
-GitHub: Dannywhilz001  
-LinkedIn: linkedin.com/in/oladotun-olawale
+
+📧 Email: oladotunolawale29@yahoo.com
+
+🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+
+💼 Portfolio: https://github.com/Dannywhilz001
