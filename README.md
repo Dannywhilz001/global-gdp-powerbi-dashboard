@@ -1,8 +1,8 @@
 # Global GDP Analysis 2023 - Power BI Dashboard
 $104.57 Trillion Visualized | 181 Countries | 2023 Data
 
-[Global GDP Dashboard Preview](https://ibb.co/B2ZhgN36
-https://ibb.co/k2hY5ssx)
+[Global GDP Dashboard Preview](https://ibb.co/B2ZhgN36)
+[Global Dashboard Preview 2](https://ibb.co/k2hY5ssx)
 
 ## Key Insights
 - 68% of global GDP controlled by just 10 countries ($70.86T)
@@ -37,6 +37,6 @@ Oladotun Olawale - Data Analyst | Power BI Developer
 
 📧 Email: oladotunolawale29@yahoo.com
 
-🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+🔗 [LinkedIn](http://www.linkedin.com/in/oladotun-olawale)
 
-💼 Portfolio: https://github.com/Dannywhilz001
+💼[ Portfolio](https://github.com/Dannywhilz001)
